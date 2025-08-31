@@ -1,5 +1,5 @@
 # Olá! Eu sou Denilson Damacena, estudante de Análise e Desenvolvimento de Sistemas e formado em Gestão de TI. 😜
-<img src="https://i.imgur.com/XpBKyAT.gif" width="140" align="right"/>
+<img src="https://i.imgur.com/XpBKyAT.gif" width="190" align="right"/>
 
 Este perfil será meu espaço para compartilhar projetos e conteúdos desenvolvidos em aula. 💻
 
@@ -9,8 +9,8 @@ em tecnologia e *evoluindo* minhas habilidades a cada novo desafio.
 
 <div>
   <a href="https://github.com/denilsondamacena">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
