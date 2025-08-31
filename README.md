@@ -1,15 +1,16 @@
-# Me chamo Denilson Damacena, sou estudante de Análise e Desenvolvimento de Sistemas e formado em Gestão de TI. 😜
-Este perfil será meu espaço para compartilhar projetos e conteúdos desenvolvidos em aula.
+# Olá! Eu sou Denilson Damacena, estudante de Análise e Desenvolvimento de Sistemas e formado em Gestão de TI. 😜
+<img src="https://i.imgur.com/XpBKyAT.gif" width="190" align="right"/>
 
-> Assim como um treinador Pokémon que captura e treina criaturas para ficarem cada vez mais fortes, aqui estarei "capturando" conhecimento em tecnologia e "evoluindo" minhas habilidades a cada novo desafio.
+Este perfil será meu espaço para compartilhar projetos e conteúdos desenvolvidos em aula. 💻
 
-<div align="right">
-<img align"center" alt="Deni-pokeball" height="130" width="100" src="https://i.imgur.com/XpBKyAT.gif">
-</div>
+> Assim como um **treinador Pokémon** que captura e treina criaturas <br>
+para ficarem cada vez mais fortes, aqui estarei *capturando* conhecimento <br>
+em tecnologia e *evoluindo* minhas habilidades a cada novo desafio.
+
 <div>
   <a href="https://github.com/denilsondamacena">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -33,3 +34,4 @@ Este perfil será meu espaço para compartilhar projetos e conteúdos desenvolvi
 
 </a>
 </div>
+
