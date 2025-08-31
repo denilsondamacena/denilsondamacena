@@ -7,10 +7,9 @@ Este perfil será meu espaço para compartilhar projetos e conteúdos desenvolvi
 para ficarem cada vez mais fortes, aqui estarei *capturando* conhecimento <br>
 em tecnologia e *evoluindo* minhas habilidades a cada novo desafio.
 
-<div>
+<div align="left">
   <a href="https://github.com/denilsondamacena">
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,7 +25,7 @@ em tecnologia e *evoluindo* minhas habilidades a cada novo desafio.
 
 ##
 
-<div> 
+<div>
   <a href="https://www.linkedin.com/in/denilsondamacena/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
   <a href ="mailto:denilsonsilvadamacena@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/1037415334438776863" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
