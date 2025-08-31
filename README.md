@@ -1,5 +1,5 @@
 # Olá! Eu sou Denilson Damacena, estudante de Análise e Desenvolvimento de Sistemas e formado em Gestão de TI. 😜
-<img src="https://i.imgur.com/XpBKyAT.gif" width="190" align="right"/>
+<img src="https://i.imgur.com/XpBKyAT.gif" width="140" align="right"/>
 
 Este perfil será meu espaço para compartilhar projetos e conteúdos desenvolvidos em aula. 💻
 
