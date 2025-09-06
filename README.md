@@ -8,8 +8,20 @@ para ficarem cada vez mais fortes, aqui estarei *capturando* conhecimento <br>
 em tecnologia e *evoluindo* minhas habilidades a cada novo desafio.
 
 <div align="left">
-  <a href="https://github.com/denilsondamacena">
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&langs_count=16&theme=transparent"/>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true" />
+</picture> <picture>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&theme=dark)](https://github.com/denilsondamacena/github-readme-stats)
+  </picture>
 </div>
 
 <div style="display: inline_block"><br>
