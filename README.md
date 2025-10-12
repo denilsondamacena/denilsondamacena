@@ -10,7 +10,7 @@ em tecnologia e *evoluindo* minhas habilidades a cada novo desafio.
 <div align="left">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -20,7 +20,7 @@ em tecnologia e *evoluindo* minhas habilidades a cada novo desafio.
   <img width="300" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true" />
 </picture> <picture>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&theme=dark)](https://github.com/denilsondamacena/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&bg_color=00000000)](https://github.com/denilsondamacena/github-readme-stats)
   </picture>
 </div>
 
