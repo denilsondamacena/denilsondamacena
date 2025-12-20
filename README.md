@@ -1,47 +1,22 @@
-# Olá! Eu sou Denilson Damacena, estudante de Análise e Desenvolvimento de Sistemas e formado em Gestão de TI. 😜
-<img src="https://i.imgur.com/XpBKyAT.gif" width="190" align="right"/>
+# Denilson Damacena - #OpenToWork 💜
 
-Este perfil será meu espaço para compartilhar projetos e conteúdos desenvolvidos em aula. 💻
+#### Estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste | Graduado em Gestão de TI pela Universidade Cidade de São Paulo (UNICID)
 
-> Assim como um **treinador Pokémon** que captura e treina criaturas <br>
-para ficarem cada vez mais fortes, aqui estarei *capturando* conhecimento <br>
-em tecnologia e *evoluindo* minhas habilidades a cada novo desafio.
+Este perfil é destinado à apresentação de projetos acadêmicos e pessoais, demonstrando meu crescimento contínuo na área de tecnologia. Busco oportunidades para aplicar meus conhecimentos em desenvolvimento back-end, contribuir para projetos desafiadores e evoluir profissionalmente.
 
-<div align="left">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true" />
-</picture> <picture>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- GitHub Stats -->
+  <img width="280" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&hide_border=true" />
+<img src="https://i.gifer.com/YdBN.gif" width="250" align="right"/>
+
+  <!-- Top Languages -->
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&hide_border=true" />
+</div>
+<br>
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-9370DB?style=for-the-badge&logo=python&logoColor=white&style=for-the-badge"/> <img alt="Java" src="https://img.shields.io/badge/Java-9370DB?style=for-the-badge&logo=&logoColor=white&style=for-the-badge"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-9370DB?style=for-the-badge&logo=html5&logoColor=white&style=for-the-badge"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-9370DB?style=for-the-badge&logo=javascript&logoColor=white&style=for-the-badge"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-9370DB?style=for-the-badge&logo=css3&logoColor=white&style=for-the-badge"/></p>
+  <p align="left"><a href="https://www.linkedin.com/in/denilsondamacena/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-9370DB?logo=&logoColor=white&style=flat"/></a> <a href="mailto:denilsonsilvadamacena@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-9370DB?logo=gmail&logoColor=white&style=flat"/></a> <a href="https://x.com/denidamacena" target="_blank"><img alt="X" src="https://img.shields.io/badge/--9370DB?logo=x&logoColor=white&style=flat"/></a>
+</p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&bg_color=00000000)](https://github.com/denilsondamacena/github-readme-stats)
-  </picture>
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Deni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Deni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Deni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Deni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-</div>
-
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/denilsondamacena/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-  <a href ="mailto:denilsonsilvadamacena@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/1037415334438776863" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/denidamacena" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
-
-</a>
-</div>
 
