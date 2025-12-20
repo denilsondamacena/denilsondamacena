@@ -1,7 +1,7 @@
 # Denilson Damacena - #OpenToWork 💜
 
 #### Estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste | Graduado em Gestão de TI pela Universidade Cidade de São Paulo (UNICID)
-<img src="https://media1.tenor.com/m/6CoFwCvK6XgAAAAd/line-rainbow.gif" width="500"/><img src="https://media1.tenor.com/m/6CoFwCvK6XgAAAAd/line-rainbow.gif" width="500"/>
+<img src="https://media1.tenor.com/m/6CoFwCvK6XgAAAAd/line-rainbow.gif" heigth="1" width="1000"/>
 Este perfil é destinado à apresentação de projetos acadêmicos e pessoais, demonstrando meu crescimento contínuo na área de tecnologia. Busco oportunidades para aplicar meus conhecimentos em desenvolvimento back-end, contribuir para projetos desafiadores e evoluir profissionalmente.
 
 <div style="display: flex; align-items: center; gap: 20px;">
