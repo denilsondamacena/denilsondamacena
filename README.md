@@ -9,8 +9,7 @@ Este perfil é destinado à apresentação de projetos acadêmicos e pessoais, d
   <img width="280" src="https://github-readme-stats.vercel.app/api?username=denilsondamacena&show_icons=true&hide_border=true&theme=transparent&title_color=9370DB" />
 
   <!-- Top Languages -->
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&hide_border=true&theme=transparent&title_color=9370DB" />
-  <img src="https://i.gifer.com/YdBN.gif" width="250" align="right"/>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&hide_border=true&theme=transparent&title_color=9370DB"/>
 
 </div>
 
