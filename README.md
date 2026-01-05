@@ -3,21 +3,26 @@
 #### Estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste | Graduado em Gestão de TI pela Universidade Cidade de São Paulo (UNICID)
 <img src="https://media1.tenor.com/m/6CoFwCvK6XgAAAAd/line-rainbow.gif" height="10" width="1000"/>
 Este perfil é destinado à apresentação de projetos acadêmicos e pessoais, demonstrando meu crescimento contínuo na área de tecnologia. Busco oportunidades para aplicar meus conhecimentos em desenvolvimento back-end, contribuir para projetos desafiadores e evoluir profissionalmente.
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="middle" style="padding:6px">
+<table
+  border="0"
+  cellspacing="0"
+  cellpadding="0"
+  style="border-collapse: collapse; border: none;"
+>
+  <tr style="border: none;">
+    <td align="center" valign="middle" style="padding:6px; border:none;">
       <img
         width="280"
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=denilsondamacena&show_icons=true&hide_border=true&bg_color=00000000&title_color=9370DB&icon_color=9370DB&text_color=9370DB"
       />
     </td>
-    <td align="center" valign="middle" style="padding:6px">
+    <td align="center" valign="middle" style="padding:6px; border:none;">
       <img
         width="280"
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&hide=html,css&hide_border=true&bg_color=00000000&title_color=9370DB&text_color=9370DB"
       />
     </td>
-    <td align="center" valign="middle" style="padding:6px">
+    <td align="center" valign="middle" style="padding:6px; border:none;">
       <img
         width="260"
         src="https://i.gifer.com/YdBN.gif"
