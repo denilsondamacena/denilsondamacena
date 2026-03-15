@@ -1,4 +1,4 @@
-# Denilson Damacena - #OpenToWork 💜
+# Denilson Damacena
 
 #### Estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste | Graduado em Gestão de TI pela Universidade Cidade de São Paulo (UNICID)
 <img src="https://media1.tenor.com/m/6CoFwCvK6XgAAAAd/line-rainbow.gif" height="10" width="1000"/>
