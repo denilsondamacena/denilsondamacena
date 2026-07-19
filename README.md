@@ -10,7 +10,7 @@ contribuir para projetos desafiadores e evoluir profissionalmente.
   <img width="280" align="left"
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=denilsondamacena&show_icons=true&hide_border=true&bg_color=00000000&title_color=9370DB&icon_color=9370DB&text_color=9370DB" />
   <img width="280" align="left"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&hide=html,css&hide_border=true&bg_color=00000000&title_color=9370DB&text_color=9370DB" />
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denilsondamacena&layout=compact&langs_count=20&hide_border=true&bg_color=00000000&title_color=9370DB&text_color=9370DB" />
   <img width="200" align="right" src="https://i.gifer.com/YdBN.gif" />
 </p>
 <br clear="both" />
