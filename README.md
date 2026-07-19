@@ -1,4 +1,4 @@
-# 🫟Denilson Damacena
+# Denilson Damacena
 
 #### Estudante de Análise e Desenvolvimento de Sistemas na Fatec Zona Leste | Graduado em Gestão de TI pela Universidade Cidade de São Paulo (UNICID)
 <img src="https://media1.tenor.com/m/6CoFwCvK6XgAAAAd/line-rainbow.gif" height="10" width="1000" />
@@ -48,26 +48,5 @@ contribuir para projetos desafiadores e evoluir profissionalmente.
   <img alt="GitHub"
     src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge" />
 </p>
-<p align="left">
-  <a href="https://www.linkedin.com/in/denilsondamacena">
-    <img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/-LinkedIn-9370DB?style=flat&logo=linkedin&logoColor=white"
-    />
-  </a>
 
-  <a href="mailto:denilsonsilvadamacena@gmail.com">
-    <img
-      alt="Gmail"
-      src="https://img.shields.io/badge/-Gmail-9370DB?style=flat&logo=gmail&logoColor=white"
-    />
-  </a>
-
-  <a href="https://x.com/denidamacena">
-    <img
-      alt="X"
-      src="https://img.shields.io/badge/-Twitter-9370DB?style=flat&logo=x&logoColor=white"
-    />
-  </a>
-</p>
 <img src="https://media1.tenor.com/m/6CoFwCvK6XgAAAAd/line-rainbow.gif" height="10" width="1000" />
